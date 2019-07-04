@@ -28,6 +28,28 @@
 
   lab_stig/lab_stig
 
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Prism Central
+  :name: _prism_central
+  :hidden:
+
+  prism_central_overview/prism_central_overview
+  prism_central_dashboards_reports/prism_central_dashboards_reports
+  prism_central_resource_planning/prism_central_resource_planning
+
+.. toctree::
+  :maxdepth: 2
+  :caption:  Files Labs
+  :name: _files_labs
+  :hidden:
+
+  files_deploy/files_deploy
+  files_smb_share/files_smb_share
+  files_nfs_export/files_nfs_export
+
+
 .. toctree::
   :maxdepth: 2
   :caption: Optional Labs
@@ -49,9 +71,9 @@
 
 .. _getting_started:
 
----------------
-Getting Started
----------------
+----------------------
+Abbott Custom Workshop
+----------------------
 
 Welcome to the Nutanix Core Workshop! This workshop may accompany an instructor-led session that introduces Nutanix Core technologies and many common management tasks.
 
@@ -75,6 +97,8 @@ Agenda
 - Nutanix Configuration
 - Deploying and Managing Workloads
 - Security Compliance
+- Prism Pro
+- Files
 
 Introductions
 +++++++++++++
